@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #9126a7;
+  background: #CC66CC;
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -42,7 +42,7 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #000;
+  color: #330066;
 }
 
 .content > p {
@@ -82,8 +82,8 @@ h2 {
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: #FF99FF;
+  border: 1px solid #330066;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -159,7 +159,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color: #666;
+  color: #fae4f7;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -176,16 +176,16 @@ nav h1 {
 }
 
 nav {
-  background: #1a1a2e;
+  background: #330066;
   border-color: #1a1a2e;
 }
 
 nav h1 {
-  color: #e94560;
+  color: #FF99FF;
 }
 
 .nav-li a {
-  color: #a8b2d8;
+  color: #FF99FF;
 }
 
 .nav-li a:hover {
